@@ -33,12 +33,6 @@
                 >
                     Log in
                 </Link>
-                <Link
-                    href="{{ route('register') }}"
-                    class="rounded-md border border-transparent bg-indigo-500 px-4 py-2 font-bold text-white shadow-sm hover:bg-indigo-700 focus:border-indigo-300 focus:outline-none focus:ring focus:ring-indigo-200 focus:ring-opacity-50"
-                >
-                    Register
-                </Link>
             @endguest
         </div>
     </div>
